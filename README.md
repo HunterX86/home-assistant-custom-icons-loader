@@ -11,7 +11,7 @@ Then use one of the following methods :
 
 ### With [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 If you use HACS, you can add this repository as a custom one. Go to the settings, and fill as following :
-- Custom repository : 'armaell/home-assistant-custom-icons-loader'
+- Custom repository : 'HunterX86/home-assistant-custom-icons-loader'
 - Category : Integration
 
 
